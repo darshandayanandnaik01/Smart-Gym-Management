@@ -18,10 +18,6 @@ It allows staff to perform essential operations like registering members, markin
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/Smart-Gym-Management.git
-2. Compile the program:
-
-gcc gym_management.c -o gym_management
-
 
 3. Run the executable:
 
